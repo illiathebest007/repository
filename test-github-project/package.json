@@ -1,0 +1,8 @@
+{
+  "name": "test-github-project",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\""
+  }
+}
